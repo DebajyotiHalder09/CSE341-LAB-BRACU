@@ -3,3 +3,4 @@
 <p>Lab-01: Mathematical operations and simplifying equations</p>
 
 <p>Lab-02: Basic input/output</p>
+<p>Lab-04: Loop</p>
